@@ -10,8 +10,7 @@
 			 
 **二、什么是HTML?**
         HTML(Hyper Ttext Markup Language)，超文本标记语言。HTML并不是一种编程语言，
-				而是一种标记语言。并且是成对出现，包含一个开始标签如<h1>，和一个结束标签如
-				</h1>。一般HTNL定义为网页内容的骨架。
+				而是一种标记语言。并且是成对出现。一般HTNL定义为网页内容的骨架。
 				基本结构：
 > 				    <!DCOCTYPE html>
 > 				    <html>
@@ -27,7 +26,7 @@
 **三、什么是CSS？**
 CSS  (Cascading Style Sheets)指层叠样式表。主要定义HTML元素的样式。css规则由两个主要部分构成：
 
-> 				    选择器{标签：值}；  如  h1{color:red};  
+> 				    选择器{标签：值}；  如  h1{color：red};  
 
  选择器是重点：一般有ID选择器，类选择器，派生选择器，属性选择器等。以及盒子模型中的margin（外边距）、padding（内边距）也要掌握。
  
