@@ -1,0 +1,38 @@
+*{
+	font-family: "Microsoft YaHei";
+}
+.main{
+	width: 1000px;
+	height: 650px;	
+	margin: 0 auto;
+
+}
+.resuMe{
+    width: 200px;
+    height: 650px;
+    float: left;
+    background: #5CACEE;
+    color: #fff;
+     text-align:center;
+}
+.content{
+	float: left;
+	margin: 10px;
+}
+.aboutMe,.contacts{
+	width: 750px;
+	height: 70px;
+}
+.aboutMe li,.contacts li{
+	list-style: none;
+	float: left;
+	margin: 0 60px 0 -40px;
+	padding-right: 20px;
+} 
+.tit{
+	font-weight: bold;
+}
+
+p{
+	margin: 0;
+}

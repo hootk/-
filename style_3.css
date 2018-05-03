@@ -1,0 +1,44 @@
+*{
+	font-family: "Microsoft YaHei";
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 1000px;
+	margin: 0 auto;
+}
+.resuMe{
+	width: 1000px;
+	height: 80px;
+	background: #636363;
+	color: #FFF;
+}
+.resuMe h2{
+	line-height: 80px;
+}/*简历*/
+
+h3{
+	height: 120px;
+	width: 120px;
+	background: #ADADAD;
+	line-height: 120px;
+	text-align: center;
+	border-bottom: 1px solid #FFF;
+	float: left;
+}
+
+ li{
+	list-style: none;
+	float: left;
+	margin: 5px 20px 0 5px;
+}
+
+p{
+	margin: 5px 20px 0 5px;	
+}
+.tit{
+	font-weight: bold;
+}
+.contacts,.ability,.education,.project{
+	clear:both;
+}
